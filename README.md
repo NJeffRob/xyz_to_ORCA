@@ -22,7 +22,7 @@ The default parameters are as follows:
 | charge      | 0           |
 | mult        | 1           |
 
-These defaults were chosen with molecular geometries in mind (sorry materials folks). You can of course specify custom inputs instead should you need something more specific, or modify the defaults as you wish.
+These defaults were chosen with molecular geometries in mind (sorry materials folks). You can of course specify custom inputs instead should you need something more specific, or modify the defaults as you wish. **Note that for both the default and the custom version, the user will have to specify their DRAC account.**
 
 Custom parameters are anything the user specicies. **If your input contains gibberish, the output will be gibberish. There are no checks that the user has input something sensible. Always double check your inputs.**
 
