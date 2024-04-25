@@ -29,7 +29,7 @@ function sh_defaults(calc_type, io_name)
 
     io.write(
         "#!/bin/bash", "\n",
-        "#SBATCH --account=def-ipaci", "\n",
+        "#SBATCH --account=", "\n",
         "#SBATCH --ntasks=4", "\n",
         "#SBATCH --mem-per-cpu=2G", "\n",
         "#SBATCH --time=3-00:00", "\n",
