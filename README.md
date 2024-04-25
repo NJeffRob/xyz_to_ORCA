@@ -7,9 +7,8 @@ Script will work with Lua 5.4 and above. All three files must be in the same dir
 ### Use
 To use, download the files, and type
 
-'''
-lua xyz_to_ORCA_inp.lua
-'''
+
+<code> lua xyz_to_ORCA_inp.lua </code>.
 
 into the command line. This will prompt the user with some questions pertaining to their [ORCA](https://pubs.aip.org/aip/jcp/article/152/22/224108/1061982/The-ORCA-quantum-chemistry-program-package) job, and then ask if the user wants to set custom parameters or use some defaults. **Note: your molecule name has to be the same as what you've titled your xyz file.**
 
